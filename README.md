@@ -12,3 +12,9 @@ I learned a lot of  new information from this courses already, I even installed 
 ![Alt text](https://github.com/ArthurGorbenko/kottans-frontend/blob/master/task_git_collaboration/Screenshot%20from%202019-04-14%2015-02-15.png?raw=true)
 
 It was a secondary course about Git and Github for,now i am more confident in using this tools.
+
+## Intro to HTML and CSS
+
+![Alt text](https://github.com/ArthurGorbenko/kottans-frontend/blob/master/task_html_css_intro/Screenshot%20from%202019-04-16%2022-12-32.png?raw=true)
+![Alt text](https://github.com/ArthurGorbenko/kottans-frontend/blob/master/task_html_css_intro/Screenshot%20from%202019-04-19%2017-41-38.png?raw=true)
+That courses refreshed my knowledge of HTML/CSS and gave me some new features/rules.Also I finished new htmlacademy's course about intro in Web and left feedback.
