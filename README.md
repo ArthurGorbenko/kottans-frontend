@@ -18,3 +18,10 @@ It was a secondary course about Git and Github for,now i am more confident in us
 ![Alt text](https://github.com/ArthurGorbenko/kottans-frontend/blob/master/task_html_css_intro/Screenshot%20from%202019-04-16%2022-12-32.png?raw=true)
 ![Alt text](https://github.com/ArthurGorbenko/kottans-frontend/blob/master/task_html_css_intro/Screenshot%20from%202019-04-19%2017-41-38.png?raw=true)
 That courses refreshed my knowledge of HTML/CSS and gave me some new features/rules.Also I finished new htmlacademy's course about intro in Web and left feedback.
+
+## Responsive Web Design
+
+![Alt text](https://github.com/ArthurGorbenko/kottans-frontend/blob/master/task_responsive_web_design/flexbox_froggy.png?raw=true)
+![Alt text](https://github.com/ArthurGorbenko/kottans-frontend/blob/master/task_responsive_web_design/responsive_web_1.jpg?raw=true)
+
+Grid,flex were new techniques for me, so i learned a lof.Especially i liked Froggy style of game, thats was so visually and easy to understand.
