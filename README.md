@@ -25,3 +25,15 @@ That courses refreshed my knowledge of HTML/CSS and gave me some new features/ru
 ![Alt text](https://github.com/ArthurGorbenko/kottans-frontend/blob/master/task_responsive_web_design/responsive_web_1.jpg?raw=true)
 
 Grid,flex were new techniques for me, so i learned a lof.Especially i liked Froggy style of game, thats was so visually and easy to understand.
+
+## JS Basics
+
+![Alt text](https://github.com/ArthurGorbenko/kottans-frontend/blob/master/task_js_basics/IntroInJs.jpg?raw=true)
+![Alt text](https://github.com/ArthurGorbenko/kottans-frontend/blob/master/task_js_basics/BasicJs.jpg?raw=true)
+![Alt text](https://github.com/ArthurGorbenko/kottans-frontend/blob/master/task_js_basics/ES6.jpg?raw=true)
+![Alt text](https://github.com/ArthurGorbenko/kottans-frontend/blob/master/task_js_basics/basicAlgorithmScripting.png?raw=true)
+![Alt text](https://github.com/ArthurGorbenko/kottans-frontend/blob/master/task_js_basics/basicDataStructure.png)
+![Alt text](https://github.com/ArthurGorbenko/kottans-frontend/blob/master/task_js_basics/functionalProgramming.png?raw=true)
+![Alt text](https://github.com/ArthurGorbenko/kottans-frontend/blob/master/task_js_basics/intermediateAlgorithmScripting.jpg?raw=true)
+
+I guess it was the most difficult task here and in the same time most interesting and educational.I spent a lot more time than it should be but i think it is how it works.
