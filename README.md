@@ -54,6 +54,7 @@ It was most complex task because you need to work with already implemented engin
 ## Memory pair game
 
 [Demo](https://arthurgorbenko.github.io/Memory-pair-game-Pokemon-s-edition/)
+
 [Code base](https://github.com/ArthurGorbenko/Memory-pair-game-Pokemon-s-edition)
 
 
@@ -62,6 +63,7 @@ It is my first more or less compicated project with some logic on JS.Learned a l
 ## Friend's app
 
 [Demo](https://arthurgorbenko.github.io/Friend-s-app/)
+
 [Code base](https://github.com/ArthurGorbenko/Friend-s-app)
 
 This project I rewrite twice because first I implemented wrong logic, where all sorting and filtering processes were attach to DOM elements instead data. I got some experience with adaptation my app on mobile phones.
