@@ -51,4 +51,19 @@ That was a little training for understanding purpose of OOP.
 
 It was most complex task because you need to work with already implemented engine.
 
+## Memory pair game
+
+[Demo](https://arthurgorbenko.github.io/Memory-pair-game-Pokemon-s-edition/)
+[Code base](https://github.com/ArthurGorbenko/Memory-pair-game-Pokemon-s-edition)
+
+
+It is my first more or less compicated project with some logic on JS.Learned a lof about readability of code and different techniques such as flipping items,comparing attributes.I spend a lof of time dealing with bugs like user's opportunity to open more than 2 cards and flipping them back.
+
+## Friend's app
+
+[Demo](https://arthurgorbenko.github.io/Friend-s-app/)
+[Code base](https://github.com/ArthurGorbenko/Friend-s-app)
+
+This project I rewrite twice because first I implemented wrong logic, where all sorting and filtering processes were attach to DOM elements instead data. I got some experience with adaptation my app on mobile phones.
+
 
