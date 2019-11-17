@@ -66,6 +66,6 @@ It is my first more or less compicated project with some logic on JS.Learned a l
 
 [Code base](https://github.com/ArthurGorbenko/Friend-s-app)
 
-This project I rewrite twice because first I implemented wrong logic, where all sorting and filtering processes were attach to DOM elements instead data. I got some experience with adaptation my app on mobile phones.
+This project I rebuilded twice because first I implemented wrong logic, where all sorting and filtering processes were attach to DOM elements instead data. I got some experience with adaptation my app on mobile phones.
 
 
